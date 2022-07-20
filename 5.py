@@ -1,5 +1,5 @@
 #division(floor)of a number
-a =10
-b =4
+a =16
+b =13
 div =a//b
 print(div)
