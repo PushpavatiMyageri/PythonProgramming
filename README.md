@@ -11,5 +11,5 @@
 [Link](https://bit.ly/3cNaTVu)
 ## Assignment 4
 ## 	Designing CSV sheet with netflix.csv and produce meaningful results
-[Link](https://bit.ly/3DbCNFx)
-[Link](https:/.bit.ly/3QjanMI)
+- [Link1](https://bit.ly/3DbCNFx)
+- [Link2](https:/.bit.ly/3QjanMI)
