@@ -13,3 +13,9 @@
 ## 	Designing CSV sheet with netflix.csv and produce meaningful results
 - [Link1](https://bit.ly/3DbCNFx)
 - [Link2](https:/.bit.ly/3QjanMI)
+### Assignment 5
+## Numpy Basics(How to use NumPy and to manipulate data for AI problems)
+- [Link](https://bit.ly/3dtVtG0)
+## Pandas Basics(How to use pandas and to manipulate data for AI problems)
+-[Link](https://bit.ly/3RTZYsc)
+
