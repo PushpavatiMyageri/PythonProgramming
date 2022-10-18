@@ -1,0 +1,21 @@
+{
+     "student bio":{
+        "first name":"pushpa",
+        "last name": "myageri",
+        "Dob":"25/12/1997"
+     },
+    "student addrs":{
+        "address":"",
+        "city":"hubli"
+    },
+    "student academic":
+    {
+        "grade":"A",
+        "grade1":"B",
+        "grade2":"C"
+    }
+}
+
+
+
+
