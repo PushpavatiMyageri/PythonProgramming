@@ -19,7 +19,7 @@
 ## Pandas Basics(How to use pandas and to manipulate data for AI problems)
 -[Link](https://bit.ly/3RTZYsc)
 ### Assignment on module_5
-## [Module5_Assignments.docx](https://github.com/PushpavatiMyageri/PythonProgramming/files/9741214/Module5_Assignments.docx)
+## [Module5_Assignments.docx](https://github.com/RashmivernekarN/)
 ### Assignment Opencv
 - [link](https://bit.ly/3E25kxc)
 
