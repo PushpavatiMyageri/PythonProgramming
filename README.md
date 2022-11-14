@@ -40,10 +40,10 @@
 
 ### Assignment 5
 ## To create a virtual assistant
-	-[Link] :[5.pptx](https://github.com/PushpavatiMyageri/PythonProgramming/files/10005444/5.pptx)
+- [Link] :[5.pptx](https://github.com/PushpavatiMyageri/PythonProgramming/files/10005444/5.pptx)
 ### Assignment 6
 ## To Create a Agriculture drone
-	- [Link](https://bit.ly/3g7fW4D)
+- [Link](https://bit.ly/3g7fW4D)
 
 ### Assignment 7
 ## Presentation on Smart city
