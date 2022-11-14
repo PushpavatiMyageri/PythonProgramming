@@ -43,7 +43,7 @@
 	-[Link] :[5.pptx](https://github.com/PushpavatiMyageri/PythonProgramming/files/10005444/5.pptx)
 ### Assignment 6
 ## To Create a Agriculture drone
-	- [Link] :[Agriculture drone.pptx](https://github.com/PushpavatiMyageri/PythonProgramming/files/10005485/Agriculture.drone.pptx)
+	- [Link] :[Agriculture drone.pptx](https://bit.ly/3g7fW4D)
 
 ### Assignment 7
 ## Presentation on Smart city
